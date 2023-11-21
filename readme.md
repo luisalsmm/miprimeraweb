@@ -10,6 +10,6 @@
 ## FLUJO TRABAJO GIT
 
 1. git init
-2. add .
+2. git add .
 3. git commit -m "message"
 4. git push -u origin main   : Este comando sube los cambios a la nube
